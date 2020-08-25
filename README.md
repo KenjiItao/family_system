@@ -1,4 +1,4 @@
-# Evolution of family systems
+# Evolution of Family Systems
 Source Code of K. Itao and K. Kaneko "Evolution of Family Systems and Resultant Socio-Economic Structures" in preparation)
 
 ## One-trait model
